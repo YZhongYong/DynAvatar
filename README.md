@@ -1,10 +1,6 @@
 <div align="center">
 
 # <b>DynAvatar</b>: DynAvatar: Dynamic 3D Head Avatar Deformation with Expression Guided Gaussian Splatting
-
-<p><sup>1</sup>Harbin Institute of Technology &nbsp;&nbsp;<sup>2</sup>Tsinghua Univserity &nbsp;&nbsp;<sup>3</sup>Communication University of China
-<br><sup>*</sup>Corresponding author &nbsp;&nbsp;<sup>&dagger;</sup>Work done during an internship at Tsinghua Univserity<p>
-
 </div>
 
 ## Getting Started
